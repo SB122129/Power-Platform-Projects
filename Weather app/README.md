@@ -1,4 +1,4 @@
-```markdown
+
 # Weather App Custom Page in Power Apps
 
 ## Overview
@@ -19,7 +19,8 @@
 ### Custom Connector Definition
 *Below is a screenshot showing the custom connector definition used to fetch weather data from WeatherAPI:*
 
-![Screenshot_28-1-2025_141713_make powerapps com](https://github.com/user-attachments/assets/2bfa8102-6a88-46aa-96f9-dbf2e3d864a4)
+![Screenshot_7-2-2025_162318_make powerapps com](https://github.com/user-attachments/assets/ebed73c6-7426-419a-8fe9-c5b2041ec1bf)
+
 
 ## Architecture
 The application is developed as a **custom page** in Power Apps. The key components include:
@@ -36,4 +37,3 @@ The custom connector is configured to call the WeatherAPI service. It accepts a 
 
 ## Contact
 For questions, feedback, or issues, please open an issue in this repository or contact [samiberhanu12@gmail.com](mailto:samiberhanu12@gmail.com).
-```
