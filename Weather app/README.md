@@ -22,6 +22,13 @@
 
 ![Screenshot_7-2-2025_162318_make powerapps com](https://github.com/user-attachments/assets/ebed73c6-7426-419a-8fe9-c5b2041ec1bf)
 
+### Custom Connector Usage in Powerapps
+*Below is a screenshot of the powerfx formula in the Onselect property of the search button on the app's user interface:*
+![Screenshot_7-2-2025_173433_make powerapps com](https://github.com/user-attachments/assets/86bde506-171e-411c-9119-4e5c42d973eb)
+
+*Below is a screenshot of the powerfx formula in the text property of the text label that displays the current city weather temp:*
+![Screenshot_7-2-2025_174542_make powerapps com](https://github.com/user-attachments/assets/f16fc7a3-84fe-4f33-baf7-53d1ea5cfb1b)
+
 
 ## Architecture
 The application is developed as a **custom page** in Power Apps. The key components include:
