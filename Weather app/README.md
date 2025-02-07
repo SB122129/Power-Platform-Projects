@@ -37,4 +37,4 @@ The custom connector is configured to call the WeatherAPI service. It accepts a 
 
 
 ## Contact
-For questions, feedback, or issues, please open an issue in this repository or contact [samiberhanu12@gmail.com](mailto:samiberhanu12@gmail.com).
+For questions, feedback contact [samiberhanu12@gmail.com](mailto:samiberhanu12@gmail.com).
