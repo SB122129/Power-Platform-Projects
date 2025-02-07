@@ -8,6 +8,7 @@
 - **City Search:** Quickly search for any city to retrieve its weather data.
 - **Real-time Weather Data:** Display current weather conditions fetched live from WeatherAPI.
 - **Custom Connector Integration:** Seamlessly integrates with WeatherAPI using a custom connector that accepts a city name as a parameter and returns detailed weather information.
+- **Instant Temperature Unit Switching:** Effortlessly alternate between Celsius and Fahrenheit, with both live weather conditions and forecasted data updating immediately.
 
 ## Screenshots
 ### App UI
