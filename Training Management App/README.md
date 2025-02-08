@@ -128,5 +128,5 @@ Tracks employee training assignments.
 
 ## 📬 Contact
 For questions, feedback, or issues, please reach out via:  
-📧 **samiberhanu12@gmail.com **  
+📧 samiberhanu12@gmail.com   
 
