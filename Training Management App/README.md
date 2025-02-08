@@ -36,7 +36,8 @@ The **Employee Training Management App** is a **Power app** designed to streamli
 4. **Employee List**  
    - Displays a **searchable** list of employees.  
 
- ![Screenshot_8-2-2025_16232_make powerapps com](https://github.com/user-attachments/assets/90ae1472-ac26-417e-bb6e-5a73fa75314a)
+![Screenshot_8-2-2025_16232_make powerapps com](https://github.com/user-attachments/assets/6bc0778e-9038-403f-bc49-7ab001ddd6ab)
+
 
 
 
