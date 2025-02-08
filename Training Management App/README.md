@@ -1,8 +1,8 @@
 
-# Employee Training Management System
+# Employee Training Management App
 
 ## 📌 Project Overview
-The **Employee Training Management System** is a **Power Platform** solution designed to streamline employee training assignments, track attendance, and automate notifications. It leverages **Power Apps, SharePoint, and Power Automate** to enhance HR efficiency in managing training programs.
+The **Employee Training Management App** is a **Power app** designed to streamline employee training assignments, track attendance, and automate notifications. It leverages **Power Apps, SharePoint, and Power Automate** to enhance HR efficiency in managing training programs.
 
 ## 🚀 Features
 ### 🔹 **Power Apps**
